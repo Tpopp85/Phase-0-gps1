@@ -8,6 +8,6 @@ puts "Hello, World!"
 [Devboot Camp]
 (http://devbootcamp.com/)
 
-![Alt text](/c/Sites/Phase-0-gps1/working.png)
+![Alt text](/working.png)
 
 bigger conflict
